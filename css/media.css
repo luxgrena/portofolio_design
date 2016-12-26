@@ -1,0 +1,72 @@
+/*Jika media berukuran 1024px atau kuran*/
+
+@media screen and (max-width:1024px) {
+    .container {
+        width: auto;
+    }
+    #full {
+        width: auto;
+    }
+    .inti {
+        width: auto;
+        float: none;
+    }
+    #content {
+        width: auto;
+        height: auto;
+    }
+}
+
+
+/*Jika media berukuran 980px atau kuran*/
+
+@media screen and (max-width:980px) {
+    .container {
+        width: auto;
+        height: auto;
+    }
+    #full {
+        width: auto;
+    }
+    #content {
+        width: auto;
+        height: auto;
+    }
+    .inti {
+        width: auto;
+        height: auto;
+    }
+}
+
+
+/*Jika media berukuran 700px atau kuran*/
+
+@media screen and (max-width:700px) {
+    .container {
+        width: auto;
+        height: auto;
+    }
+    #full {
+        width: auto;
+    }
+}
+
+
+/*Jika media berukuran 480px atau kuran*/
+
+@media screen and (max-width:480px) {
+    .container {
+        width: auto;
+        height: auto;
+    }
+    #full {
+        width: auto;
+    }
+    .inti {
+        width: auto;
+        float: none;
+    }
+    h2 {
+        font-size: 20px;
+    }
+}
